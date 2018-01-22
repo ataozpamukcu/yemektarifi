@@ -1,0 +1,26 @@
+.resim{
+   width: auto;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-image: url(background.jpg);
+    margin:auto;
+    
+}
+
+
+div{
+    font-family: fantasy;
+}
+h1{
+    color:floralwhite;
+}
+.hepsi{
+    color: skyblue;
+    width: 600px;
+    margin: auto;
+    text-align: justify;
+        
+}
